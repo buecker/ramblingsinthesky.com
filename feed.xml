@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ramblingsinthesky.com</title>
+    <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
+    <link href="https://buecker.github.io/ramblingsinthesky" />
+    <updated>2023-04-01T13:38:14-04:00</updated>
+    <author>
+        <name>Ben Uecker</name>
+    </author>
+    <id>https://buecker.github.io/ramblingsinthesky</id>
+
+    <entry>
+        <title>Switching from Ghost Blog to Cloudflare Pages</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html"/>
+        <id>https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html</id>
+
+        <updated>2023-04-01T13:38:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a loss. I can still access the database but I have to extract everything by hand. I've started the process but it's been a nightmare. I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a loss. I can still access the database but I have to extract everything by hand. I've started the process but it's been a nightmare. I had another blog that also had an upgrade disaster but after 2 years I was able to recover that one.</p>
+<p>I love Ghost Blog but manually hosting shouldn't be this hard. I have had upgrade issues a few times in the past but at least I could recover. This last one was related to an upgrade to Mysql 8.0. Something to do with encoding. I have wasted hours trying to fix it. </p>
+<p>With that behind me I am going to try use Publii to create the static site. Those posts are then uploaded to Github which in turn is then sent to Cloudfront pages. I have migrated several wordpress sites to static sites on S3. I thought I should try something different this time. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
