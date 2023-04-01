@@ -1,2 +1,2 @@
-# ramblingsinthesky.com
+# ramblingsinthesky
 website for cloudflare pages
