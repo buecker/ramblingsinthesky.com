@@ -14,7 +14,7 @@
             "id": "https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html",
             "url": "https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html",
             "title": "Switching from Ghost Blog to Cloudflare Pages",
-            "summary": "I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a loss. I can still access the database but I have to extract everything by hand. I've started the process but it's been a nightmare. I&hellip;",
+            "summary": "I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a&hellip;",
             "content_html": "<p>I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a loss. I can still access the database but I have to extract everything by hand. I've started the process but it's been a nightmare. I had another blog that also had an upgrade disaster but after 2 years I was able to recover that one.</p>\n<p>I love Ghost Blog but manually hosting shouldn't be this hard. I have had upgrade issues a few times in the past but at least I could recover. This last one was related to an upgrade to Mysql 8.0. Something to do with encoding. I have wasted hours trying to fix it. </p>\n<p>With that behind me I am going to try use Publii to create the static site. Those posts are then uploaded to Github which in turn is then sent to Cloudfront pages. I have migrated several wordpress sites to static sites on S3. I thought I should try something different this time. </p>",
             "author": {
                 "name": "Ben Uecker"
