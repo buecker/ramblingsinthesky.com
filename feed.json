@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html",
+            "title": "These Publii Themes are Not Working as I Intended",
+            "summary": "I've been trying to get a theme to look good on here but having a lot of difficulty. I'm not&hellip;",
+            "content_html": "<p>I've been trying to get a  theme to look good on here but having a lot of difficulty. I'm not sure what I am doing wrong. I am just looking for something simpel.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-05T11:05:39-04:00",
+            "date_modified": "2023-04-05T11:05:39-04:00"
+        },
+        {
             "id": "https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html",
             "url": "https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html",
             "title": "Switching from Ghost Blog to Cloudflare Pages",

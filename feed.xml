@@ -3,12 +3,32 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
     <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-04-01T13:38:14-04:00</updated>
+    <updated>2023-04-05T11:05:39-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://buecker.github.io/ramblingsinthesky</id>
 
+    <entry>
+        <title>These Publii Themes are Not Working as I Intended</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html"/>
+        <id>https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html</id>
+
+        <updated>2023-04-05T11:05:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I've been trying to get a theme to look good on here but having a lot of difficulty. I'm not&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've been trying to get a  theme to look good on here but having a lot of difficulty. I'm not sure what I am doing wrong. I am just looking for something simpel.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Switching from Ghost Blog to Cloudflare Pages</title>
         <author>
