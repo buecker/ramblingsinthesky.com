@@ -3,7 +3,7 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
     <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-04-05T11:12:14-04:00</updated>
+    <updated>2023-04-05T11:29:09-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://buecker.github.io/ramblingsinthesky/two-stork-on-the-beach.html"/>
         <id>https://buecker.github.io/ramblingsinthesky/two-stork-on-the-beach.html</id>
+        <media:content url="https://buecker.github.io/ramblingsinthesky/media/posts/3/PXL_20230403_221447027.MP-EFFECTS.jpg" medium="image" />
 
-        <updated>2023-04-05T11:12:14-04:00</updated>
+        <updated>2023-04-05T11:29:09-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://buecker.github.io/ramblingsinthesky/media/posts/3/PXL_20230403_221447027.MP-EFFECTS.jpg" alt="" />
                     Here is a stylized photo of two storks on Smith Bay Beach (aka Lindquist Beach). I thought Google did a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://buecker.github.io/ramblingsinthesky/media/posts/3/PXL_20230403_221447027.MP-EFFECTS.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blog-pics.s3.amazonaws.com/ramblings/PXL_20230403_221447027.MP-EFFECTS.jpg" alt="2 storks on Lindquist Beach" width="3024" height="4032" data-is-external-image="true"></figure>Here is a stylized photo of two storks on Smith Bay Beach (aka Lindquist Beach). I thought Google did a good job on this photo. My wife took the original photo. We haven't seen too many storks lately. For awhile there we were seeing the same one every day we went.</p>
             ]]>
         </content>
