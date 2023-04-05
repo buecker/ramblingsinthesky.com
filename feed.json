@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://buecker.github.io/ramblingsinthesky/two-stork-on-the-beach.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/two-stork-on-the-beach.html",
+            "title": "Two Stork on the Beach",
+            "summary": "Here is a stylized photo of two storks on Smith Bay Beach (aka Lindquist Beach). I thought Google did a&hellip;",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://blog-pics.s3.amazonaws.com/ramblings/PXL_20230403_221447027.MP-EFFECTS.jpg\" alt=\"2 storks on Lindquist Beach\" width=\"3024\" height=\"4032\" data-is-external-image=\"true\"></figure>Here is a stylized photo of two storks on Smith Bay Beach (aka Lindquist Beach). I thought Google did a good job on this photo. My wife took the original photo. We haven't seen too many storks lately. For awhile there we were seeing the same one every day we went.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-05T11:12:14-04:00",
+            "date_modified": "2023-04-05T11:12:14-04:00"
+        },
+        {
             "id": "https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html",
             "url": "https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html",
             "title": "These Publii Themes are Not Working as I Intended",
