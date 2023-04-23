@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html",
+            "title": "West Indies Coffee",
+            "summary": "I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use&hellip;",
+            "content_html": "<p>I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use West Indies Coffee. My theory is West Indies describes the location better than Date Night and it also lets me split the quality between the lines.  I hope to keep Date Night more premium.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-23T13:36:20-04:00",
+            "date_modified": "2023-04-23T13:36:20-04:00"
+        },
+        {
             "id": "https://buecker.github.io/ramblingsinthesky/2nd-bag-of-coffee-from-esselunga-and-it-still-tasted-great.html",
             "url": "https://buecker.github.io/ramblingsinthesky/2nd-bag-of-coffee-from-esselunga-and-it-still-tasted-great.html",
             "title": "2nd Bag of coffee from Esselunga and it still tasted great!",

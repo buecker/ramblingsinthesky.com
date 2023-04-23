@@ -3,12 +3,32 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
     <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-04-05T20:00:50-04:00</updated>
+    <updated>2023-04-23T13:36:20-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://buecker.github.io/ramblingsinthesky</id>
 
+    <entry>
+        <title>West Indies Coffee</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html"/>
+        <id>https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html</id>
+
+        <updated>2023-04-23T13:36:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use West Indies Coffee. My theory is West Indies describes the location better than Date Night and it also lets me split the quality between the lines.  I hope to keep Date Night more premium.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2nd Bag of coffee from Esselunga and it still tasted great!</title>
         <author>
