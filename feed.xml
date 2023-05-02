@@ -3,12 +3,34 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
     <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-04-23T13:36:20-04:00</updated>
+    <updated>2023-05-02T19:34:37-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://buecker.github.io/ramblingsinthesky</id>
 
+    <entry>
+        <title>I use Publii to Write for this Blog</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html"/>
+        <id>https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html</id>
+
+        <updated>2023-05-02T19:34:37-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I have been trying Publii out for this blog. On the left it tells me the total amount of words,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have been trying Publii out for this blog. On the left it tells me the total amount of words, unique words, characters, sentences and paragraphs. It ends with reading time. I like stats which means I like this. You can hide the stats. It takes up maybe 15% of the page. The writing block in the middle is about 80%. The right side reminds me of Ghost blog. It has publishing stuff including featured image, tags and SEO.</p>
+<p>If I continue to use this I will need to figure out how to maybe pull this up remotely. Right now it is on my laptop. When I publish it goes to github and then cloudflare workers pick it up from there to make it live at ramblingsinthesky.com.</p>
+<p>I use a lot of different devices. I really do not want to be stuck using only one device. You never know when it will stop working.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>West Indies Coffee</title>
         <author>

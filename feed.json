@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html",
+            "title": "I use Publii to Write for this Blog",
+            "summary": "I have been trying Publii out for this blog. On the left it tells me the total amount of words,&hellip;",
+            "content_html": "<p>I have been trying Publii out for this blog. On the left it tells me the total amount of words, unique words, characters, sentences and paragraphs. It ends with reading time. I like stats which means I like this. You can hide the stats. It takes up maybe 15% of the page. The writing block in the middle is about 80%. The right side reminds me of Ghost blog. It has publishing stuff including featured image, tags and SEO.</p>\n<p>If I continue to use this I will need to figure out how to maybe pull this up remotely. Right now it is on my laptop. When I publish it goes to github and then cloudflare workers pick it up from there to make it live at ramblingsinthesky.com.</p>\n<p>I use a lot of different devices. I really do not want to be stuck using only one device. You never know when it will stop working.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-02T19:34:37-04:00",
+            "date_modified": "2023-05-02T19:34:37-04:00"
+        },
+        {
             "id": "https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html",
             "url": "https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html",
             "title": "West Indies Coffee",
