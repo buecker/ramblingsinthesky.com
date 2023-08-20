@@ -3,7 +3,7 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
     <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-08-19T22:09:04-04:00</updated>
+    <updated>2023-08-20T16:39:51-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
@@ -16,16 +16,20 @@
         </author>
         <link href="https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html"/>
         <id>https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html</id>
+        <media:content url="https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png" medium="image" />
 
-        <updated>2023-08-19T22:09:04-04:00</updated>
+        <updated>2023-08-20T16:39:51-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png" alt="Hisense Soundbar" />
                     I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the sound bar. Volume Down + Power. Hold it down until the light starts to flash.</p>
+                    <p><img src="https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png" class="type:primaryImage" alt="Hisense Soundbar" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://blog-pics.s3.amazonaws.com/ramblings/Hisense-soundbar.png" alt="Hisense Sondbar" width="997" height="264" data-is-external-image="true"></figure>
+<p>I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the sound bar. Volume Down + Power. Hold it down until the light starts to flash.</p>
 <p>My soundbar had two issues. The Hisense Soundbar would not turn off and after a few minutes it went super quiet. I did the standard troubleshooting and then opened a ticket with Hisense. It took them just a day or two to send a text message asking for a pic of the label. I originally did the chat support.</p>
 <p>A week goes by and I reach out to them again. They say I have to ship it in. I did not have the original box but I did find a box it would fit in. However, it would have cost me close to $30 to ship it out.</p>
 <p>The positive of this situation is either 1. don't buy hisense again (our tv is hisense also) or 2. thank heavens I don't have to pay to ship it back to get it fixed.</p>
