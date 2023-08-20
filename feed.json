@@ -10,6 +10,48 @@
     },
     "items": [
         {
+            "id": "https://buecker.github.io/ramblingsinthesky/a-2013-post-about-our-asian-tiger-mosquitos.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/a-2013-post-about-our-asian-tiger-mosquitos.html",
+            "title": "A 2013 Post about our Asian Tiger Mosquitos",
+            "summary": "We have had several Asian Tiger Mosquitos in our house up to about 2 weeks ago. They are HUGE compared&hellip;",
+            "content_html": "<p>We have had several Asian Tiger Mosquitos in our house up to about 2 weeks ago. They are HUGE compared to a normal mosquito. Just learned today from this article in <a href=\"http://www.nbcnews.com/health/cdc-issues-warning-about-painful-virus-mosquitoes-2D11765769\">nbcnews.com</a> that the mosquito may carry the dengue virus. Not only that virus but I guess a new virus from Africa as well. According to the article, <a href=\"http://www.nbcnews.com/health/www.cdc.gov/chikungunya\">Chikungunya virus</a>is also a very painful virus to get. It was found in Sint Maartin.</p>\n<p>I am including a shot of one here but I may have to take a picture with my camera when I see another one. Fortunately, we have lots of geckos in the house and they do an amazing job of eating the bugs.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://upload.wikimedia.org/wikipedia/commons/e/ea/Aedes_Albopictus.jpg\" alt=\"Asian Tiger Mosquitos\" width=\"1080\" height=\"733\" data-is-external-image=\"true\"></figure>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-20T16:58:41-04:00",
+            "date_modified": "2023-08-20T16:58:41-04:00"
+        },
+        {
+            "id": "https://buecker.github.io/ramblingsinthesky/a-post-from-2015-about-your-1st-trip-to-new-zealand.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/a-post-from-2015-about-your-1st-trip-to-new-zealand.html",
+            "title": "A Post from 2015 about your 1st Trip to New Zealand",
+            "summary": "Note: This post is originally from 3/24/2015 and is from my ruined Ghost blog. I am reposting some of the&hellip;",
+            "content_html": "<p>Note: This post is originally from 3/24/2015 and is from my ruined Ghost blog. I am reposting some of the original content. I thought it would be fun to keep this one. We are going back to New Zealand for our 3rd time. This coming trip will be spent in Queenstown on the South Island.</p>\n<p>This is just a short blurb about vacation. We recently got back from visiting Phoenix, Los Angeles, Tahiti, and Auckland, New Zealand.</p>\n<ol>\n<li>Tahiti was beautiful but not that much different than our own Caribbean islands. We went to Moorea for a day trip and that island is just stunning.</li>\n<li>Getting to see even just one spring training game is awesome. I'm glad we go every year. This year we had to be at LAX the next day to fly out and so we drove to Los Angeles. The sunset was amazing. TuneIn radio worked 95% of the time and I would highly recommend it but just once.</li>\n<li>New Zealand was even more beautiful than I expected and Auckland was an extremely modern city. I got to try a Flat White for the first time and just fell in love with the drink. We also went to Wahiki island off of Auckland and that provided us with even more beauty. Especially since we walked most of it. The wineries everywhere were top-notch.</li>\n<li>A layover in Tahiti and Los Angeles on the way back wasn't too bad. In Tahiti, they took my travel corkscrew. First time in over 5 years I have had it taken on me and this was obviously my 2nd time in that airport! For Los Angeles, we just drove around near the water and checked out some of the scenery.</li>\n</ol>\n<p>I think sums it up. I have some amazing pictures and memories and very happy to have had the opportunity to take this trip.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-20T16:56:32-04:00",
+            "date_modified": "2023-08-20T16:56:32-04:00"
+        },
+        {
+            "id": "https://buecker.github.io/ramblingsinthesky/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html",
+            "url": "https://buecker.github.io/ramblingsinthesky/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html",
+            "title": "An Intro I wrote about My First Issues with Ghost Blog in 2013",
+            "summary": "Well, I just wrote over 2 pages of text and it was all wiped out by an accidental slip of&hellip;",
+            "content_html": "<p>Well, I just wrote over 2 pages of text and it was all wiped out by an accidental slip of the mouse button. Guess there is no auto-save feature? I will have to check that out.</p>\n<p>Lets see if I can shorten this:</p>\n<p>Ghost is a new blogging platform and I didn't really have the time (I technically still don't) to try and install it. It has taken a solid 1.5 hours to get it up and running on my little server but it seems to be working.</p>\n<p>There are 2 possible issues. The first is I am not sure if I am saving this in mysql or sqlite. It is suppose to be mysql. The second is the upstart functionality. When I reboot my server I can't seem to verify ghost will restart. Again, this is something I will have to test later.</p>\n<p>Lastly, this is being housed on an atom server running on Ubuntu 13.10.</p>\n<p>I repurposed an Acer Veriton with an atom processor. Replaced the expensive fan and added an SSD and doubled the memory. It also serves as a remote desktop host with virtualbox running an XP guest. I also occasionally use it to stream video to the TV. It sits behind the TV and is silent. You may think that putting an SSD in it is overkill but when you are paying 52.5 cents (soon to go up another 2.5 cents) per Kwh you would also be doing everything to reduce your electricity costs.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-20T16:53:08-04:00",
+            "date_modified": "2023-08-20T16:53:08-04:00"
+        },
+        {
             "id": "https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html",
             "url": "https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html",
             "title": "Hisense Soundbar Firmware",
@@ -108,50 +150,6 @@
             ],
             "date_published": "2023-04-05T19:57:14-04:00",
             "date_modified": "2023-04-05T20:00:50-04:00"
-        },
-        {
-            "id": "https://buecker.github.io/ramblingsinthesky/home-roasting-with-a-popcorn-maker.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/home-roasting-with-a-popcorn-maker.html",
-            "title": "Home Roasting With a Popcorn Maker",
-            "summary": "I started my home roasting with an air popcorn maker. I probably should have waited as I have a 6&hellip;",
-            "content_html": "<p>I started my home roasting with an air popcorn maker. I probably should have waited as I have a 6 month supply of coffee at my house. However the urge finally overtook me and I ordered some green coffee beans from sweet <img src=\"https://ramblings-photos.s3.amazonaws.com/sweet-marias.jpg\" alt=\"\" loading=\"lazy\" data-is-external-image=\"true\"></p>\n<p>I am only able to make some batches of 50 grams each. This works out to about two cups of coffee for 8 minutes of work.</p>\n<p>I have tried three different varieties and have made a half dozen batches so far. I haven't burnt any of the beans and so far each version has been amazing.</p>\n<p>The roasting process just fills the house with these amazing smells. Some of it is chocolate and other times it smells like licorice. It's quite an amazing smell. Now one must remember that roasting coffee beans give off the same toxic chemical as microwave popcorn. Diacetyl is the culprit here. I plan on mitigating this in two different ways. First, my house is always open. One of those things awesome things about living in the tropics. The second thing is if I get addicted to roasting more I will then just start roasting outside. That would also solve my chafe problem. It isn't necessarily a problem for me as I am working with very small quantities right now.</p>\n<p>I've roasted the coffee for as little as 5 minutes and as long as 8 minutes.</p>\n<p>I like the darker roasts but prefer espresso or a strong cup of coffee. After roasting them in the popcorn maker I put them in a colander to cool off and to try and remove any chafe that I see. After about a minute I will drop them into my airtight glass container. I picked up a few different sizes at Ikea. You are supposed to give it the roasted beans a day before you grind and drink them due to the continued release of carbon dioxide. I think it's interesting because when you first out the beans in the container there is barely any smell. Come back later and open the container and wham the smell just rushes to your waiting nostrils. It becomes an addiction.</p>\n<p>As I mentioned earlier each roast has turned out amazing. The flavors just explode from the coffee.</p>\n<p>At home, I am a big coffee drinker. My wife does have a cup from time to time but really just sticks to having a shot added to her cinnamon rum on the weekends. I heat the cinnamon rum and froth it first. The coffee is made with Aeropress. For me, I use a shot of Aeropress on the weekdays and then I make flat whites on the weekends.</p>\n<p>I like to try coffee both with and without milk to make sure I like the taste. I've yet to make cold press with my roasted coffee. Haven't really been around to try.</p>\n<p>It's just so smooth and so full of flavor that I really think it's worth the extra time.</p>\n<ol>\n<li>Roast the beans</li>\n<li>Grind the beans the next day</li>\n<li>Make the coffee right after the grind</li>\n<li>Enjoy the complexities of the coffee.</li>\n</ol>\n<p>I think my obsession with coffee started when we lived in Alpharetta and we took our first trip to santo Domingo about 5 years ago. I bought a bag of santo Domingo coffee and thought it was the best coffee I had ever tasted. I found out later that I could order it through a company out of Miami. When we moved to St Thomas I found out that Santo Domingo was sold in the stores! After buying them for awhile I ventured out to trying other Caribbean coffees. Yes, this was at the urging of my wife.</p>\n<p>The next step was to bring some back from Puerto Rico. The coffees averaged $2 a lb there. That was about 60% cheaper than what I paid in St Thomas! With these cheap prices we decided that I should just buy a variety to try.</p>\n<p>Our frequent visits made it easy to try the Puerto Rico coffees and I started understanding which coffees I liked and which ones were not so good.</p>\n<p>I did this same thing on our next trip to Santo Domingo. I bought a whole suitcase full! This happens to be December of 2014. This also coincided with even more international travel. (Thank you low oil prices!)</p>\n<p>We started to travel more internationally and the coffee prices were far cheaper than the states. I started with picking up several bags in Tahiti and New Zealand. After that I bought some whole bean at a rum festival. This led to buying a grinder. I use to have a grinder but it was cheap and it was a blade. I had no idea how awful it was at grinding till I got a burr Grinder many years later. I lost a lid in one of my many moves and never bothered to replace it.</p>\n<p>Come to think of it I did try lots of different coffees in Austin but I was only using a drip coffee maker. Even the coffee maker makes a huge difference. My purchase of my Aeropress also took me much closer to the dark side.</p>\n<p>Anyways, the coffee was dirt cheap in Spain (and it has to be some of the worst coffee in the entire world) and there too I picked up a suitcase full. By this time I was already on the fence if I should continue to purchase whole-bean or ground coffee. I had several bags and cans of coffee that were just not very good. Usually, it was due to bitterness.</p>\n<p>The Italy trip saw me buying three bags of whole-bean coffee. Back home I started to flirt with cold press coffee. I had made it in the past but now I had a burr grinder(very cheap) and a better grasp on how I like my cold press coffee to taste. The key to cold press is to use a coarse ground and that meant grinding my own due to only buying espresso grinds on my trips.</p>\n<p>Our next trip was to Paris. That would be the last trip where I purchased any ground coffee. China was also there but they didn't even have any instant coffee.</p>\n<p>That brings us to today where I now am happily grinding my own. I'm going to seek out other opinions on my roasting skills. I am sure I am biased to my own particular tastes.</p>\n<p>In one week we will be heading to Medellin, Columbia. I hope to bring back some green coffee beans from there. If I don't then the next trip to Puerto Rico is a coffee festival and I know for a fact I can get some during that event.</p>",
-            "image": "https://buecker.github.io/ramblingsinthesky/media/posts/5/sweet-marias1.jpg",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T15:30:21-04:00",
-            "date_modified": "2023-04-05T15:31:24-04:00"
-        },
-        {
-            "id": "https://buecker.github.io/ramblingsinthesky/two-stork-on-the-beach.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/two-stork-on-the-beach.html",
-            "title": "Two Storks on the Beach",
-            "summary": "Here is a stylized photo of two storks on Smith Bay Beach (aka Lindquist Beach). I thought Google did a&hellip;",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://blog-pics.s3.amazonaws.com/ramblings/PXL_20230403_221447027.MP-EFFECTS.jpg\" alt=\"2 storks on Lindquist Beach\" width=\"3024\" height=\"4032\" data-is-external-image=\"true\"></figure>Here is a stylized photo of two storks on Smith Bay Beach (aka Lindquist Beach). I thought Google did a good job on this photo. My wife took the original photo. We haven't seen too many storks lately. For awhile there we were seeing the same one every day we went.</p>",
-            "image": "https://buecker.github.io/ramblingsinthesky/media/posts/3/PXL_20230403_221447027.MP-EFFECTS.jpg",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T11:12:14-04:00",
-            "date_modified": "2023-04-05T15:27:56-04:00"
-        },
-        {
-            "id": "https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/these-publii-themes-are-not-working-as-i-intended.html",
-            "title": "These Publii Themes are Not Working as I Intended",
-            "summary": "I've been trying to get a theme to look good on here but having a lot of difficulty. I'm not&hellip;",
-            "content_html": "<p>I've been trying to get a  theme to look good on here but having a lot of difficulty. I'm not sure what I am doing wrong. I am just looking for something simpel.</p>",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T11:05:39-04:00",
-            "date_modified": "2023-04-05T11:05:39-04:00"
         }
     ]
 }
