@@ -3,12 +3,57 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
     <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-06-25T11:33:56-04:00</updated>
+    <updated>2023-08-19T22:09:04-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://buecker.github.io/ramblingsinthesky</id>
 
+    <entry>
+        <title>Hisense Soundbar Firmware</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html"/>
+        <id>https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html</id>
+
+        <updated>2023-08-19T22:09:04-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the sound bar. Volume Down + Power. Hold it down until the light starts to flash.</p>
+<p>My soundbar had two issues. The Hisense Soundbar would not turn off and after a few minutes it went super quiet. I did the standard troubleshooting and then opened a ticket with Hisense. It took them just a day or two to send a text message asking for a pic of the label. I originally did the chat support.</p>
+<p>A week goes by and I reach out to them again. They say I have to ship it in. I did not have the original box but I did find a box it would fit in. However, it would have cost me close to $30 to ship it out.</p>
+<p>The positive of this situation is either 1. don't buy hisense again (our tv is hisense also) or 2. thank heavens I don't have to pay to ship it back to get it fixed.</p>
+<p>The negative is that Hisense support should have suggested I hit those two buttons. They did ask me to unplug and plug it back in.  This is huge mistake on their part. It would have cost them time and money to press those two buttons and ship it back. You know that's all they would have done.</p>
+<p>The old saying "You get what you paid for" lives on. Here is verifiable proof.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Austin FC Should Care More About Tournaments</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://buecker.github.io/ramblingsinthesky/austin-fc-should-care-more-about-tournaments.html"/>
+        <id>https://buecker.github.io/ramblingsinthesky/austin-fc-should-care-more-about-tournaments.html</id>
+
+        <updated>2023-07-23T17:52:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Just a gripe. I would like to see Austin FC care more about tournaments. First game of Leagues Cup and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Just a gripe. I would like to see Austin FC care more about tournaments. First game of Leagues Cup and they lose easily. For the Concacaf tournament they lost to a bunch of part time footballers in Haiti. That's awful.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cold Brew Season is Here!</title>
         <author>
@@ -216,57 +261,6 @@
         <content type="html">
             <![CDATA[
                 <p>I've been trying to get a  theme to look good on here but having a lot of difficulty. I'm not sure what I am doing wrong. I am just looking for something simpel.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Switching from Ghost Blog to Cloudflare Pages</title>
-        <author>
-            <name>Ben Uecker</name>
-        </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/switching-from-ghost-blog-to-cloudflare-pages.html</id>
-
-        <updated>2023-04-01T13:38:14-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am switching from Ghost Blog to Cloudflare Pages. I had a catastrophic event with my blog and its a loss. I can still access the database but I have to extract everything by hand. I've started the process but it's been a nightmare. I had another blog that also had an upgrade disaster but after 2 years I was able to recover that one.</p>
-<p>I love Ghost Blog but manually hosting shouldn't be this hard. I have had upgrade issues a few times in the past but at least I could recover. This last one was related to an upgrade to Mysql 8.0. Something to do with encoding. I have wasted hours trying to fix it. </p>
-<p>With that behind me I am going to try use Publii to create the static site. Those posts are then uploaded to Github which in turn is then sent to Cloudfront pages. I have migrated several wordpress sites to static sites on S3. I thought I should try something different this time. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Review of UCC Brazil Luciana Whole Bean Coffee</title>
-        <author>
-            <name>Ben Uecker</name>
-        </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/review-of-ucc-brazil-luciana-whole-bean-coffee.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/review-of-ucc-brazil-luciana-whole-bean-coffee.html</id>
-        <media:content url="https://buecker.github.io/ramblingsinthesky/media/posts/4/ucc-brazil-luciana1.jpg" medium="image" />
-
-        <updated>2023-04-05T15:27:47-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://buecker.github.io/ramblingsinthesky/media/posts/4/ucc-brazil-luciana1.jpg" alt="UCC Brazil Luciana" />
-                    This is my review of UCC Brazil Luciana whole bean coffee. It's my second whole bean bag of coffee that&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://buecker.github.io/ramblingsinthesky/media/posts/4/ucc-brazil-luciana1.jpg" class="type:primaryImage" alt="UCC Brazil Luciana" /></p>
-                <p>This is my review of UCC Brazil Luciana whole bean coffee. It's my second whole bean bag of coffee that was purchased in Japan.</p>
-<p>This particular bag was bought in a grocery store in Yokohama.</p>
-<p>UCC Brazil Luciana might be the name of the coffee but all I know for sure is the company is called UCC. I found them on the web and they do have a place in Brazil. As far as purchasing more that I have no idea about it.</p>
-<p>Let's get to what really matters. How does it taste? The answer to that question isn't very straightforward. It has a strong flavor but it's not actually bold. As a strong shot or as espresso it comes off with a tinge of bitterness with the complexities of chocolate. Sorry if it sounds weird but please don't let the word "bitterness" how you off. Think Starbucks burnt but without the aftertaste.</p>
-<p>The beans were a dark French Roast and it was nowhere near my favorite espresso shot. However, as a latte it was amazing. For whatever scientific reason that I don't know, it became one of my favorites for homemade coffee drinks.</p>
-<p>In the end I must say that I enjoy this coffee but keep in mind that it should be paired. It doesn't hold its own very well by itself.</p>
-<p><em>Originally published on 11-15-2015. One of many posts I plan to restore from my old blog.</em></p>
             ]]>
         </content>
     </entry>
