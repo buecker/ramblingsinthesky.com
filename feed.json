@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ramblingsinthesky.com",
     "description": "",
-    "home_page_url": "https://buecker.github.io/ramblingsinthesky",
-    "feed_url": "https://buecker.github.io/ramblingsinthesky/feed.json",
+    "home_page_url": "https://ramblingsinthesky.com",
+    "feed_url": "https://ramblingsinthesky.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ben Uecker"
     },
     "items": [
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/a-2013-post-about-our-asian-tiger-mosquitos.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/a-2013-post-about-our-asian-tiger-mosquitos.html",
+            "id": "https://ramblingsinthesky.com/2023-december-trip-to-new-zealand.html",
+            "url": "https://ramblingsinthesky.com/2023-december-trip-to-new-zealand.html",
+            "title": "2023 December Trip to New Zealand",
+            "summary": "This was our third time to New Zealand and first trip to the South Island. We stayed in Queenstown and&hellip;",
+            "content_html": "<p>This was our third time to New Zealand and first trip to the South Island. We stayed in Queenstown and the purpose of the trip was to visit Milford Sound. It is a protected fjord that took several hours to get to. It exceeded our expectations by miles.</p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-13T10:52:30-04:00",
+            "date_modified": "2024-01-13T10:52:30-04:00"
+        },
+        {
+            "id": "https://ramblingsinthesky.com/a-2013-post-about-our-asian-tiger-mosquitos.html",
+            "url": "https://ramblingsinthesky.com/a-2013-post-about-our-asian-tiger-mosquitos.html",
             "title": "A 2013 Post about our Asian Tiger Mosquitos",
             "summary": "We have had several Asian Tiger Mosquitos in our house up to about 2 weeks ago. They are HUGE compared&hellip;",
             "content_html": "<p>We have had several Asian Tiger Mosquitos in our house up to about 2 weeks ago. They are HUGE compared to a normal mosquito. Just learned today from this article in <a href=\"http://www.nbcnews.com/health/cdc-issues-warning-about-painful-virus-mosquitoes-2D11765769\">nbcnews.com</a> that the mosquito may carry the dengue virus. Not only that virus but I guess a new virus from Africa as well. According to the article, <a href=\"http://www.nbcnews.com/health/www.cdc.gov/chikungunya\">Chikungunya virus</a>is also a very painful virus to get. It was found in Sint Maartin.</p>\n<p>I am including a shot of one here but I may have to take a picture with my camera when I see another one. Fortunately, we have lots of geckos in the house and they do an amazing job of eating the bugs.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://upload.wikimedia.org/wikipedia/commons/e/ea/Aedes_Albopictus.jpg\" alt=\"Asian Tiger Mosquitos\" width=\"1080\" height=\"733\" data-is-external-image=\"true\"></figure>",
@@ -24,8 +38,8 @@
             "date_modified": "2023-08-20T16:58:41-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/a-post-from-2015-about-your-1st-trip-to-new-zealand.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/a-post-from-2015-about-your-1st-trip-to-new-zealand.html",
+            "id": "https://ramblingsinthesky.com/a-post-from-2015-about-your-1st-trip-to-new-zealand.html",
+            "url": "https://ramblingsinthesky.com/a-post-from-2015-about-your-1st-trip-to-new-zealand.html",
             "title": "A Post from 2015 about your 1st Trip to New Zealand",
             "summary": "Note: This post is originally from 3/24/2015 and is from my ruined Ghost blog. I am reposting some of the&hellip;",
             "content_html": "<p>Note: This post is originally from 3/24/2015 and is from my ruined Ghost blog. I am reposting some of the original content. I thought it would be fun to keep this one. We are going back to New Zealand for our 3rd time. This coming trip will be spent in Queenstown on the South Island.</p>\n<p>This is just a short blurb about vacation. We recently got back from visiting Phoenix, Los Angeles, Tahiti, and Auckland, New Zealand.</p>\n<ol>\n<li>Tahiti was beautiful but not that much different than our own Caribbean islands. We went to Moorea for a day trip and that island is just stunning.</li>\n<li>Getting to see even just one spring training game is awesome. I'm glad we go every year. This year we had to be at LAX the next day to fly out and so we drove to Los Angeles. The sunset was amazing. TuneIn radio worked 95% of the time and I would highly recommend it but just once.</li>\n<li>New Zealand was even more beautiful than I expected and Auckland was an extremely modern city. I got to try a Flat White for the first time and just fell in love with the drink. We also went to Wahiki island off of Auckland and that provided us with even more beauty. Especially since we walked most of it. The wineries everywhere were top-notch.</li>\n<li>A layover in Tahiti and Los Angeles on the way back wasn't too bad. In Tahiti, they took my travel corkscrew. First time in over 5 years I have had it taken on me and this was obviously my 2nd time in that airport! For Los Angeles, we just drove around near the water and checked out some of the scenery.</li>\n</ol>\n<p>I think sums it up. I have some amazing pictures and memories and very happy to have had the opportunity to take this trip.</p>",
@@ -38,8 +52,8 @@
             "date_modified": "2023-08-20T16:56:32-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html",
+            "id": "https://ramblingsinthesky.com/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html",
+            "url": "https://ramblingsinthesky.com/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html",
             "title": "An Intro I wrote about My First Issues with Ghost Blog in 2013",
             "summary": "Well, I just wrote over 2 pages of text and it was all wiped out by an accidental slip of&hellip;",
             "content_html": "<p>Well, I just wrote over 2 pages of text and it was all wiped out by an accidental slip of the mouse button. Guess there is no auto-save feature? I will have to check that out.</p>\n<p>Lets see if I can shorten this:</p>\n<p>Ghost is a new blogging platform and I didn't really have the time (I technically still don't) to try and install it. It has taken a solid 1.5 hours to get it up and running on my little server but it seems to be working.</p>\n<p>There are 2 possible issues. The first is I am not sure if I am saving this in mysql or sqlite. It is suppose to be mysql. The second is the upstart functionality. When I reboot my server I can't seem to verify ghost will restart. Again, this is something I will have to test later.</p>\n<p>Lastly, this is being housed on an atom server running on Ubuntu 13.10.</p>\n<p>I repurposed an Acer Veriton with an atom processor. Replaced the expensive fan and added an SSD and doubled the memory. It also serves as a remote desktop host with virtualbox running an XP guest. I also occasionally use it to stream video to the TV. It sits behind the TV and is silent. You may think that putting an SSD in it is overkill but when you are paying 52.5 cents (soon to go up another 2.5 cents) per Kwh you would also be doing everything to reduce your electricity costs.</p>",
@@ -52,12 +66,12 @@
             "date_modified": "2023-08-20T16:53:08-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html",
+            "id": "https://ramblingsinthesky.com/hisense-soundbar-firmware.html",
+            "url": "https://ramblingsinthesky.com/hisense-soundbar-firmware.html",
             "title": "Hisense Soundbar Firmware",
             "summary": "I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the&hellip;",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://blog-pics.s3.amazonaws.com/ramblings/Hisense-soundbar.png\" alt=\"Hisense Sondbar\" width=\"997\" height=\"264\" data-is-external-image=\"true\"></figure>\n<p>I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the sound bar. Volume Down + Power. Hold it down until the light starts to flash.</p>\n<p>My soundbar had two issues. The Hisense Soundbar would not turn off and after a few minutes it went super quiet. I did the standard troubleshooting and then opened a ticket with Hisense. It took them just a day or two to send a text message asking for a pic of the label. I originally did the chat support.</p>\n<p>A week goes by and I reach out to them again. They say I have to ship it in. I did not have the original box but I did find a box it would fit in. However, it would have cost me close to $30 to ship it out.</p>\n<p>The positive of this situation is either 1. don't buy hisense again (our tv is hisense also) or 2. thank heavens I don't have to pay to ship it back to get it fixed.</p>\n<p>The negative is that Hisense support should have suggested I hit those two buttons. They did ask me to unplug and plug it back in.  This is huge mistake on their part. It would have cost them time and money to press those two buttons and ship it back. You know that's all they would have done.</p>\n<p>The old saying \"You get what you paid for\" lives on. Here is verifiable proof.</p>",
-            "image": "https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png",
+            "image": "https://ramblingsinthesky.com/media/posts/12/Hisense-soundbar.png",
             "author": {
                 "name": "Ben Uecker"
             },
@@ -67,8 +81,8 @@
             "date_modified": "2023-08-20T16:39:51-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/austin-fc-should-care-more-about-tournaments.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/austin-fc-should-care-more-about-tournaments.html",
+            "id": "https://ramblingsinthesky.com/austin-fc-should-care-more-about-tournaments.html",
+            "url": "https://ramblingsinthesky.com/austin-fc-should-care-more-about-tournaments.html",
             "title": "Austin FC Should Care More About Tournaments",
             "summary": "Just a gripe. I would like to see Austin FC care more about tournaments. First game of Leagues Cup and&hellip;",
             "content_html": "<p>Just a gripe. I would like to see Austin FC care more about tournaments. First game of Leagues Cup and they lose easily. For the Concacaf tournament they lost to a bunch of part time footballers in Haiti. That's awful.</p>",
@@ -81,8 +95,8 @@
             "date_modified": "2023-07-23T17:52:59-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/watchi.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/watchi.html",
+            "id": "https://ramblingsinthesky.com/watchi.html",
+            "url": "https://ramblingsinthesky.com/watchi.html",
             "title": "Cold Brew Season is Here!",
             "summary": "I am sure there are plenty of people who say all year is cold brew season. Living in the tropics&hellip;",
             "content_html": "<p>I am sure there are plenty of people who say all year is cold brew season. Living in the tropics I could agree with that but I definitely make more when it is hot out. Especially with El Nino being back. Our lows have been around 80 for a month now. That should not happen until August/September. </p>\n<p>What I do for my cold brew is use a cotton bag and make a mason jar worth of cold brew. I leave it to sit in the kitchen for around 20 hours. Three days worth goes to work with me on Monday and the rest is either drank by the wife or saved for the weekend.</p>\n<p>I vary my recipe based on what I have. When I would make 10 gallons for special events I did a ratio of sweet, nutty and chocolatey.  PNG, Ethiopian, Brazil, Colombian and Guatamela are the usual countries. Currently, I have been using Mexican Chiapas, Ethiopian Yirgacheffe and/or Colombian. The Chiapas I have right now is last season's crop. Got a great price on it. I can't taste the difference when using it in cold brew.</p>\n<p>Enjoy a cold brew in this hot summer!</p>",
@@ -95,8 +109,8 @@
             "date_modified": "2023-06-25T11:33:56-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/razer-nabu-looks-like-the-most-interesting-band-at-ces.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/razer-nabu-looks-like-the-most-interesting-band-at-ces.html",
+            "id": "https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html",
+            "url": "https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html",
             "title": "Razer Nabu Looks Like the Most Interesting Band at CES",
             "summary": "Originally published January 8, 2014. I've been tracking the fitness band announcements at CES this year. I currently have a&hellip;",
             "content_html": "<p>Originally published January 8, 2014.</p>\n<p>I've been tracking the fitness band announcements at CES this year. I currently have a fitbit flex which is a hand-me-down. I bought one for my wife this past September and she just gave it to me after their company bought one for all their employees.</p>\n<p>I like it but I don't like that we will be on our 3rd fitbit flex in just 3 full months. The one my wife got is also defective.</p>\n<p><a href=\"http://www.razerzone.com/nabu\">http://www.razerzone.com/nabu</a></p>\n<p>5/2/2022</p>\n<p>I've gone through three Wyze fitness bands and 2 Wzye watches since then. I've been on the lookout for another fitness band for months. I am at a loss!</p>",
@@ -109,8 +123,8 @@
             "date_modified": "2023-05-02T19:45:33-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html",
+            "id": "https://ramblingsinthesky.com/i-use-publii-to-write-for-this-blog.html",
+            "url": "https://ramblingsinthesky.com/i-use-publii-to-write-for-this-blog.html",
             "title": "I use Publii to Write for this Blog",
             "summary": "I have been trying Publii out for this blog. On the left it tells me the total amount of words,&hellip;",
             "content_html": "<p>I have been trying Publii out for this blog. On the left it tells me the total amount of words, unique words, characters, sentences and paragraphs. It ends with reading time. I like stats which means I like this. You can hide the stats. It takes up maybe 15% of the page. The writing block in the middle is about 80%. The right side reminds me of Ghost blog. It has publishing stuff including featured image, tags and SEO.</p>\n<p>If I continue to use this I will need to figure out how to maybe pull this up remotely. Right now it is on my laptop. When I publish it goes to github and then cloudflare workers pick it up from there to make it live at ramblingsinthesky.com.</p>\n<p>I use a lot of different devices. I really do not want to be stuck using only one device. You never know when it will stop working.</p>",
@@ -123,8 +137,8 @@
             "date_modified": "2023-05-02T19:34:37-04:00"
         },
         {
-            "id": "https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html",
+            "id": "https://ramblingsinthesky.com/west-indies-coffee.html",
+            "url": "https://ramblingsinthesky.com/west-indies-coffee.html",
             "title": "West Indies Coffee",
             "summary": "I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use&hellip;",
             "content_html": "<p>I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use West Indies Coffee. My theory is West Indies describes the location better than Date Night and it also lets me split the quality between the lines.  I hope to keep Date Night more premium.</p>",
@@ -135,21 +149,6 @@
             ],
             "date_published": "2023-04-23T13:36:20-04:00",
             "date_modified": "2023-04-23T13:36:20-04:00"
-        },
-        {
-            "id": "https://buecker.github.io/ramblingsinthesky/2nd-bag-of-coffee-from-esselunga-and-it-still-tasted-great.html",
-            "url": "https://buecker.github.io/ramblingsinthesky/2nd-bag-of-coffee-from-esselunga-and-it-still-tasted-great.html",
-            "title": "2nd Bag of coffee from Esselunga and it still tasted great!",
-            "summary": "This was a bag of espresso ground coffee from Esselunga called Cafe Pueblo. My first experience with this company was&hellip;",
-            "content_html": "<p>This was a bag of espresso ground coffee from Esselunga called Cafe Pueblo. My first experience with this company was whole beaned. I really enjoyed the flavor the first time and was hoping this next bag would also taste great.</p>\n<p>I really didn't know anything about the company when I purchased or drank the coffee. I just checked and it's a supermarket! Now this makes me feel stupid. Not that I am drinking and liking supermarket coffee from Italy but because it just hit me that the place we bought this from was called Essulunga!</p>\n<p>We even had espressos and some strawberry dessert thing while we were there. We took the train from the Milan airport down just one stop and then walked till we found a supermarket. We wanted to bring home coffee and chocolates. We even were dragging our luggage with us!</p>\n<p>Now back to the coffee. The coffee was purchased in May in Milan yet still maintained its freshness. The thing with most of these coffees is that the favors don't necessarily pop out at you. It's a great blend of a variety of coffees as an Italian roast.</p>\n<p>It's very smooth with no bitterness detected. My next trip to Milan may require another stop at Esselunga.</p>\n<p>I would also like to point out that this coffee would have been under €2. Great deal!</p>",
-            "image": "https://buecker.github.io/ramblingsinthesky/media/posts/6/esselunga-cafe1.jpg",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T19:57:14-04:00",
-            "date_modified": "2023-04-05T20:00:50-04:00"
         }
     ]
 }

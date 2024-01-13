@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ramblingsinthesky.com</title>
-    <link href="https://buecker.github.io/ramblingsinthesky/feed.xml" rel="self" />
-    <link href="https://buecker.github.io/ramblingsinthesky" />
-    <updated>2023-08-20T16:58:41-04:00</updated>
+    <link href="https://ramblingsinthesky.com/feed.xml" rel="self" />
+    <link href="https://ramblingsinthesky.com" />
+    <updated>2024-01-13T10:52:30-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
-    <id>https://buecker.github.io/ramblingsinthesky</id>
+    <id>https://ramblingsinthesky.com</id>
 
+    <entry>
+        <title>2023 December Trip to New Zealand</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://ramblingsinthesky.com/2023-december-trip-to-new-zealand.html"/>
+        <id>https://ramblingsinthesky.com/2023-december-trip-to-new-zealand.html</id>
+
+        <updated>2024-01-13T10:52:30-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This was our third time to New Zealand and first trip to the South Island. We stayed in Queenstown and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This was our third time to New Zealand and first trip to the South Island. We stayed in Queenstown and the purpose of the trip was to visit Milford Sound. It is a protected fjord that took several hours to get to. It exceeded our expectations by miles.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A 2013 Post about our Asian Tiger Mosquitos</title>
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/a-2013-post-about-our-asian-tiger-mosquitos.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/a-2013-post-about-our-asian-tiger-mosquitos.html</id>
+        <link href="https://ramblingsinthesky.com/a-2013-post-about-our-asian-tiger-mosquitos.html"/>
+        <id>https://ramblingsinthesky.com/a-2013-post-about-our-asian-tiger-mosquitos.html</id>
 
         <updated>2023-08-20T16:58:41-04:00</updated>
             <summary>
@@ -36,8 +56,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/a-post-from-2015-about-your-1st-trip-to-new-zealand.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/a-post-from-2015-about-your-1st-trip-to-new-zealand.html</id>
+        <link href="https://ramblingsinthesky.com/a-post-from-2015-about-your-1st-trip-to-new-zealand.html"/>
+        <id>https://ramblingsinthesky.com/a-post-from-2015-about-your-1st-trip-to-new-zealand.html</id>
 
         <updated>2023-08-20T16:56:32-04:00</updated>
             <summary>
@@ -64,8 +84,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html</id>
+        <link href="https://ramblingsinthesky.com/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html"/>
+        <id>https://ramblingsinthesky.com/an-intro-i-wrote-about-my-first-issues-with-ghost-blog-in-2013.html</id>
 
         <updated>2023-08-20T16:53:08-04:00</updated>
             <summary>
@@ -89,20 +109,20 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/hisense-soundbar-firmware.html</id>
-        <media:content url="https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png" medium="image" />
+        <link href="https://ramblingsinthesky.com/hisense-soundbar-firmware.html"/>
+        <id>https://ramblingsinthesky.com/hisense-soundbar-firmware.html</id>
+        <media:content url="https://ramblingsinthesky.com/media/posts/12/Hisense-soundbar.png" medium="image" />
 
         <updated>2023-08-20T16:39:51-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png" alt="Hisense Soundbar" />
+                        <img src="https://ramblingsinthesky.com/media/posts/12/Hisense-soundbar.png" alt="Hisense Soundbar" />
                     I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://buecker.github.io/ramblingsinthesky/media/posts/12/Hisense-soundbar.png" class="type:primaryImage" alt="Hisense Soundbar" /></p>
+                    <p><img src="https://ramblingsinthesky.com/media/posts/12/Hisense-soundbar.png" class="type:primaryImage" alt="Hisense Soundbar" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://blog-pics.s3.amazonaws.com/ramblings/Hisense-soundbar.png" alt="Hisense Sondbar" width="997" height="264" data-is-external-image="true"></figure>
 <p>I never found any Hisense soundbar firmware but I did find a reddit post on how to factory reset the sound bar. Volume Down + Power. Hold it down until the light starts to flash.</p>
 <p>My soundbar had two issues. The Hisense Soundbar would not turn off and after a few minutes it went super quiet. I did the standard troubleshooting and then opened a ticket with Hisense. It took them just a day or two to send a text message asking for a pic of the label. I originally did the chat support.</p>
@@ -118,8 +138,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/austin-fc-should-care-more-about-tournaments.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/austin-fc-should-care-more-about-tournaments.html</id>
+        <link href="https://ramblingsinthesky.com/austin-fc-should-care-more-about-tournaments.html"/>
+        <id>https://ramblingsinthesky.com/austin-fc-should-care-more-about-tournaments.html</id>
 
         <updated>2023-07-23T17:52:59-04:00</updated>
             <summary>
@@ -138,8 +158,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/watchi.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/watchi.html</id>
+        <link href="https://ramblingsinthesky.com/watchi.html"/>
+        <id>https://ramblingsinthesky.com/watchi.html</id>
 
         <updated>2023-06-25T11:33:56-04:00</updated>
             <summary>
@@ -161,8 +181,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/razer-nabu-looks-like-the-most-interesting-band-at-ces.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/razer-nabu-looks-like-the-most-interesting-band-at-ces.html</id>
+        <link href="https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html"/>
+        <id>https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html</id>
 
         <updated>2023-05-02T19:45:33-04:00</updated>
             <summary>
@@ -186,8 +206,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/i-use-publii-to-write-for-this-blog.html</id>
+        <link href="https://ramblingsinthesky.com/i-use-publii-to-write-for-this-blog.html"/>
+        <id>https://ramblingsinthesky.com/i-use-publii-to-write-for-this-blog.html</id>
 
         <updated>2023-05-02T19:34:37-04:00</updated>
             <summary>
@@ -208,8 +228,8 @@
         <author>
             <name>Ben Uecker</name>
         </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/west-indies-coffee.html</id>
+        <link href="https://ramblingsinthesky.com/west-indies-coffee.html"/>
+        <id>https://ramblingsinthesky.com/west-indies-coffee.html</id>
 
         <updated>2023-04-23T13:36:20-04:00</updated>
             <summary>
@@ -220,34 +240,6 @@
         <content type="html">
             <![CDATA[
                 <p>I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use West Indies Coffee. My theory is West Indies describes the location better than Date Night and it also lets me split the quality between the lines.  I hope to keep Date Night more premium.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2nd Bag of coffee from Esselunga and it still tasted great!</title>
-        <author>
-            <name>Ben Uecker</name>
-        </author>
-        <link href="https://buecker.github.io/ramblingsinthesky/2nd-bag-of-coffee-from-esselunga-and-it-still-tasted-great.html"/>
-        <id>https://buecker.github.io/ramblingsinthesky/2nd-bag-of-coffee-from-esselunga-and-it-still-tasted-great.html</id>
-        <media:content url="https://buecker.github.io/ramblingsinthesky/media/posts/6/esselunga-cafe1.jpg" medium="image" />
-
-        <updated>2023-04-05T20:00:50-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://buecker.github.io/ramblingsinthesky/media/posts/6/esselunga-cafe1.jpg" alt="Esselunga Coffee" />
-                    This was a bag of espresso ground coffee from Esselunga called Cafe Pueblo. My first experience with this company was&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://buecker.github.io/ramblingsinthesky/media/posts/6/esselunga-cafe1.jpg" class="type:primaryImage" alt="Esselunga Coffee" /></p>
-                <p>This was a bag of espresso ground coffee from Esselunga called Cafe Pueblo. My first experience with this company was whole beaned. I really enjoyed the flavor the first time and was hoping this next bag would also taste great.</p>
-<p>I really didn't know anything about the company when I purchased or drank the coffee. I just checked and it's a supermarket! Now this makes me feel stupid. Not that I am drinking and liking supermarket coffee from Italy but because it just hit me that the place we bought this from was called Essulunga!</p>
-<p>We even had espressos and some strawberry dessert thing while we were there. We took the train from the Milan airport down just one stop and then walked till we found a supermarket. We wanted to bring home coffee and chocolates. We even were dragging our luggage with us!</p>
-<p>Now back to the coffee. The coffee was purchased in May in Milan yet still maintained its freshness. The thing with most of these coffees is that the favors don't necessarily pop out at you. It's a great blend of a variety of coffees as an Italian roast.</p>
-<p>It's very smooth with no bitterness detected. My next trip to Milan may require another stop at Esselunga.</p>
-<p>I would also like to point out that this coffee would have been under €2. Great deal!</p>
             ]]>
         </content>
     </entry>
