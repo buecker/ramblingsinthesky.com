@@ -3,12 +3,34 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://ramblingsinthesky.com/feed.xml" rel="self" />
     <link href="https://ramblingsinthesky.com" />
-    <updated>2024-01-13T10:52:30-04:00</updated>
+    <updated>2024-02-11T10:53:07-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://ramblingsinthesky.com</id>
 
+    <entry>
+        <title>Germans and Their Passive Aggressiveness</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://ramblingsinthesky.com/germans-and-their-passive-aggressiveness.html"/>
+        <id>https://ramblingsinthesky.com/germans-and-their-passive-aggressiveness.html</id>
+
+        <updated>2024-02-11T10:53:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I was looking for the reason why Mainz was throwing tennis balls on the pitch today. Last time a team&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I was looking for the reason why Mainz was throwing tennis balls on the pitch today. Last time a team did this it had to do with ownership. A Google search led me to this awesomeness:</p>
+<p>Germany 2024: rural youth singing “foreigners out” from a beer-drinking Lego carnival float</p>
+<p>https://twitter.com/i/status/1756276399634059673<a href="https://twitter.com/i/status/1756276399634059673" target="_blank" rel="noopener noreferrer"></a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2023 December Trip to New Zealand</title>
         <author>
@@ -220,26 +242,6 @@
                 <p>I have been trying Publii out for this blog. On the left it tells me the total amount of words, unique words, characters, sentences and paragraphs. It ends with reading time. I like stats which means I like this. You can hide the stats. It takes up maybe 15% of the page. The writing block in the middle is about 80%. The right side reminds me of Ghost blog. It has publishing stuff including featured image, tags and SEO.</p>
 <p>If I continue to use this I will need to figure out how to maybe pull this up remotely. Right now it is on my laptop. When I publish it goes to github and then cloudflare workers pick it up from there to make it live at ramblingsinthesky.com.</p>
 <p>I use a lot of different devices. I really do not want to be stuck using only one device. You never know when it will stop working.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>West Indies Coffee</title>
-        <author>
-            <name>Ben Uecker</name>
-        </author>
-        <link href="https://ramblingsinthesky.com/west-indies-coffee.html"/>
-        <id>https://ramblingsinthesky.com/west-indies-coffee.html</id>
-
-        <updated>2023-04-23T13:36:20-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am going to create another line for my coffee roasting. Besides using Date Night Cafe I want to use West Indies Coffee. My theory is West Indies describes the location better than Date Night and it also lets me split the quality between the lines.  I hope to keep Date Night more premium.</p>
             ]]>
         </content>
     </entry>
