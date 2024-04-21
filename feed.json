@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ramblingsinthesky.com/how-to-make-corn-tortillas-from-scratch.html",
+            "url": "https://ramblingsinthesky.com/how-to-make-corn-tortillas-from-scratch.html",
+            "title": "How to Make Corn Tortillas From Scratch",
+            "summary": "Making corn tortillas from scratch is a surprisingly simple process that yields delicious results. This is coming from someone who&hellip;",
+            "content_html": "<div class=\"markdown markdown-main-panel\" dir=\"ltr\">\n<p data-sourcepos=\"1:1-1:159\">Making corn tortillas from scratch is a surprisingly simple process that yields delicious results. This is coming from someone who always orders flour when going to a restaurant. </p>\n<p data-sourcepos=\"1:1-1:159\">Masa harina is what you need. Where we live there is a lot more Harina de maiz options than masa harina. Harina de maiz is cornmeal and is popular with Dominicans. Hence, we have lots of Dominicans living here. Harina de Maiz is not interchangeable with masa harina.</p>\n<p data-sourcepos=\"1:1-1:159\">Here's a basic rundown of what you'll need and how to do it:</p>\n<p data-sourcepos=\"3:1-3:16\"><strong>Ingredients:</strong></p>\n<ul data-sourcepos=\"5:1-8:0\">\n<li data-sourcepos=\"5:1-5:231\">2 cups of Masa harina (corn flour): This is a specially treated flour made from dried field corn that's been nixtamalized (cooked in an alkaline solution). You can find it in most grocery stores, usually in the Latin American food section.</li>\n<li data-sourcepos=\"6:1-6:12\">1.5 cups of warm water (room temperature water if you live in a warm climate)</li>\n<li data-sourcepos=\"7:1-8:0\">Teaspoon of salt</li>\n</ul>\n<p data-sourcepos=\"9:1-9:14\"><strong>Equipment:</strong></p>\n<ul data-sourcepos=\"11:1-16:0\">\n<li data-sourcepos=\"11:1-11:13\">Mixing bowl</li>\n<li data-sourcepos=\"12:1-12:15\">Spoon or fork</li>\n<li data-sourcepos=\"13:1-13:24\">Rolling pin (optional)</li>\n<li data-sourcepos=\"14:1-14:52\">Tortilla press (optional, but makes things easier)</li>\n<li data-sourcepos=\"15:1-16:0\">Cast iron skillet or griddle</li>\n</ul>\n<p data-sourcepos=\"17:1-17:17\"><strong>Instructions:</strong></p>\n<ol data-sourcepos=\"19:1-28:0\">\n<li data-sourcepos=\"19:1-20:0\">\n<p data-sourcepos=\"19:4-19:290\"><strong>Mix the dough:</strong> In a large bowl, combine masa harina and salt. Gradually add 1 cup of water, mixing with a spoon or fork. The remaining half of cup you add slowly until a soft dough forms. You might need more or less depending on your climate. 1.5 cups is perfect for my tropical climate. The dough should be slightly sticky but not wet. .</p>\n</li>\n<li data-sourcepos=\"21:1-22:0\"><strong>Portion the dough:</strong> Divide the dough into equal-sized balls, about the size of golf balls.\n<ol data-sourcepos=\"19:1-28:0\">\n<li data-sourcepos=\"21:1-22:0\">Some recipes have you rest the dough for 20-30 minutes. I do not do this.</li>\n<li data-sourcepos=\"21:1-22:0\">One site says it makes 8 corn tortillas. That was not good for me. The tortillas were too thick and they were not plyable. I shoot for 12 tortillas.</li>\n</ol>\n</li>\n<li data-sourcepos=\"25:1-26:0\">\n<p data-sourcepos=\"25:4-25:291\"><strong>Press the tortillas:</strong> Here's where the tortilla press comes in handy. Place a dough ball between two pieces of plastic wrap and press down to form a thin disc. If you don't have a press, you can roll out the dough ball between two sheets of parchment paper to about 1/8-inch thickness. Just get a press. It saves so much time.</p>\n</li>\n<li data-sourcepos=\"27:1-28:0\">\n<p data-sourcepos=\"27:4-27:272\"><strong>Cook the tortillas:</strong> Heat a cast iron skillet or griddle over medium heat. If you are using gas I need to keep mine at low. Place a tortilla in the hot pan for 10 seconds and then flip. This makes it a little more fluffy and cook for about 30-45 seconds per side, or until lightly browned and spotted. You can stack the cooked tortillas in a clean kitchen towel to keep them warm.</p>\n</li>\n</ol>\n<p data-sourcepos=\"29:1-29:9\"><strong>Tips:</strong></p>\n<ul data-sourcepos=\"31:1-35:0\">\n<li data-sourcepos=\"31:1-31:94\">If the dough is too dry, add a little more water by the tablespoon until it becomes pliable.</li>\n<li data-sourcepos=\"32:1-32:95\">If the dough is too sticky, dust your hands with a little masa harina before working with it.</li>\n<li data-sourcepos=\"34:1-35:0\">Freshly made tortillas are best enjoyed warm, but they can also be stored in an airtight container at room temperature for up to 2 days. Reheat them in a skillet or microwave before serving.</li>\n</ul>\n</div>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+                   "corn tortillas"
+            ],
+            "date_published": "2024-04-21T11:58:56-04:00",
+            "date_modified": "2024-04-21T12:04:35-04:00"
+        },
+        {
             "id": "https://ramblingsinthesky.com/germans-and-their-passive-aggressiveness.html",
             "url": "https://ramblingsinthesky.com/germans-and-their-passive-aggressiveness.html",
             "title": "Germans and Their Passive Aggressiveness",
@@ -135,20 +150,6 @@
             ],
             "date_published": "2023-05-02T19:45:33-04:00",
             "date_modified": "2023-05-02T19:45:33-04:00"
-        },
-        {
-            "id": "https://ramblingsinthesky.com/i-use-publii-to-write-for-this-blog.html",
-            "url": "https://ramblingsinthesky.com/i-use-publii-to-write-for-this-blog.html",
-            "title": "I use Publii to Write for this Blog",
-            "summary": "I have been trying Publii out for this blog. On the left it tells me the total amount of words,&hellip;",
-            "content_html": "<p>I have been trying Publii out for this blog. On the left it tells me the total amount of words, unique words, characters, sentences and paragraphs. It ends with reading time. I like stats which means I like this. You can hide the stats. It takes up maybe 15% of the page. The writing block in the middle is about 80%. The right side reminds me of Ghost blog. It has publishing stuff including featured image, tags and SEO.</p>\n<p>If I continue to use this I will need to figure out how to maybe pull this up remotely. Right now it is on my laptop. When I publish it goes to github and then cloudflare workers pick it up from there to make it live at ramblingsinthesky.com.</p>\n<p>I use a lot of different devices. I really do not want to be stuck using only one device. You never know when it will stop working.</p>",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-02T19:34:37-04:00",
-            "date_modified": "2023-05-02T19:34:37-04:00"
         }
     ]
 }
