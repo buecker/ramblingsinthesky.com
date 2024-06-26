@@ -3,12 +3,56 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://ramblingsinthesky.com/feed.xml" rel="self" />
     <link href="https://ramblingsinthesky.com" />
-    <updated>2024-04-21T12:04:35-04:00</updated>
+    <updated>2024-06-26T09:17:23-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://ramblingsinthesky.com</id>
 
+    <entry>
+        <title>SD Cards Do Not Like Crappy Power</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://ramblingsinthesky.com/sd-cards-do-not-like-crappy-power.html"/>
+        <id>https://ramblingsinthesky.com/sd-cards-do-not-like-crappy-power.html</id>
+
+        <updated>2024-06-26T09:17:23-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I run my business website off of a raspberry pi. I had hosted in the cloud for years but decided&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I run my business website off of a raspberry pi. I had hosted in the cloud for years but decided to shift it to the home. I've been paying for a static IP for many years and well, why not?</p>
+<p>I do have several things going against me.</p>
+<ol>
+<li>Power
+<ol>
+<li>Power is very expensive</li>
+<li>Several power outages a month</li>
+<li>Very poor power. Constant clicks and power spikes. Hard to hit 115V.</li>
+<li>Hurricanes - When Irma hit we had no power for 90 days.</li>
+<li>SD Cards do not like crappy power</li>
+<li>Computer equipment does not like crappy power</li>
+</ol>
+</li>
+<li>Hit and miss with the cable.
+<ol>
+<li>Speeds fluctuate a lot but not really an issue.</li>
+<li>Due to the power outages sometimes the cable network runs out of fuel. I have starlink for.a backup but haven't spend enough time figuring out how to combine the IPV6 address with Cloudflare to serve the site on IPV4.</li>
+<li>High season is in the winter and the cable internet really degrades from all the tourists.</li>
+</ol>
+</li>
+</ol>
+<p>Even with all that I figured why not. This morning I had to do another FSCK on the sdcard. I am sure it was from the latest power outage. While I do use battery backups and surge protectors they don't do the greatest job. In this instance the PI is being ran from my POE+ Switch which is actually on a transfer switch. When the power goes out it switches to a pure sine inverter connected to a deep cycle marine battery. I have surge protector on it but I can't run another battery backup in-between.</p>
+<p>Overall, I have ran a few FSCK to fix the sd card and the original sd card was a no-name brand that did not last. Either way when I compare to hosting it on AWS the PI has paid for itself. I really want to move some more sites over but I think I need to get some solar+battery installed before I tempt it.</p>
+<p>My main "server" or in other words my old intel nuc that acts as a server appears to have a failing NIC. I was thinking I would upgrade that and then put proxmox on it. I already use several docker containers on it. If I do that then I feel like I do not know what I should use the PI for? It's a PI4 and I have PI5 sitting unused. I had to downgrade to a 8 port POE switch after my 24 port died. I got it replaced but I don't want to install it until I am fully moved over to solar+battery.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to Make Corn Tortillas From Scratch</title>
         <author>
@@ -258,31 +302,6 @@
 <p>What I do for my cold brew is use a cotton bag and make a mason jar worth of cold brew. I leave it to sit in the kitchen for around 20 hours. Three days worth goes to work with me on Monday and the rest is either drank by the wife or saved for the weekend.</p>
 <p>I vary my recipe based on what I have. When I would make 10 gallons for special events I did a ratio of sweet, nutty and chocolatey.  PNG, Ethiopian, Brazil, Colombian and Guatamela are the usual countries. Currently, I have been using Mexican Chiapas, Ethiopian Yirgacheffe and/or Colombian. The Chiapas I have right now is last season's crop. Got a great price on it. I can't taste the difference when using it in cold brew.</p>
 <p>Enjoy a cold brew in this hot summer!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Razer Nabu Looks Like the Most Interesting Band at CES</title>
-        <author>
-            <name>Ben Uecker</name>
-        </author>
-        <link href="https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html"/>
-        <id>https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html</id>
-
-        <updated>2023-05-02T19:45:33-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Originally published January 8, 2014. I've been tracking the fitness band announcements at CES this year. I currently have a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Originally published January 8, 2014.</p>
-<p>I've been tracking the fitness band announcements at CES this year. I currently have a fitbit flex which is a hand-me-down. I bought one for my wife this past September and she just gave it to me after their company bought one for all their employees.</p>
-<p>I like it but I don't like that we will be on our 3rd fitbit flex in just 3 full months. The one my wife got is also defective.</p>
-<p><a href="http://www.razerzone.com/nabu">http://www.razerzone.com/nabu</a></p>
-<p>5/2/2022</p>
-<p>I've gone through three Wyze fitness bands and 2 Wzye watches since then. I've been on the lookout for another fitness band for months. I am at a loss!</p>
             ]]>
         </content>
     </entry>

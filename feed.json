@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ramblingsinthesky.com/sd-cards-do-not-like-crappy-power.html",
+            "url": "https://ramblingsinthesky.com/sd-cards-do-not-like-crappy-power.html",
+            "title": "SD Cards Do Not Like Crappy Power",
+            "summary": "I run my business website off of a raspberry pi. I had hosted in the cloud for years but decided&hellip;",
+            "content_html": "<p>I run my business website off of a raspberry pi. I had hosted in the cloud for years but decided to shift it to the home. I've been paying for a static IP for many years and well, why not?</p>\n<p>I do have several things going against me.</p>\n<ol>\n<li>Power\n<ol>\n<li>Power is very expensive</li>\n<li>Several power outages a month</li>\n<li>Very poor power. Constant clicks and power spikes. Hard to hit 115V.</li>\n<li>Hurricanes - When Irma hit we had no power for 90 days.</li>\n<li>SD Cards do not like crappy power</li>\n<li>Computer equipment does not like crappy power</li>\n</ol>\n</li>\n<li>Hit and miss with the cable.\n<ol>\n<li>Speeds fluctuate a lot but not really an issue.</li>\n<li>Due to the power outages sometimes the cable network runs out of fuel. I have starlink for.a backup but haven't spend enough time figuring out how to combine the IPV6 address with Cloudflare to serve the site on IPV4.</li>\n<li>High season is in the winter and the cable internet really degrades from all the tourists.</li>\n</ol>\n</li>\n</ol>\n<p>Even with all that I figured why not. This morning I had to do another FSCK on the sdcard. I am sure it was from the latest power outage. While I do use battery backups and surge protectors they don't do the greatest job. In this instance the PI is being ran from my POE+ Switch which is actually on a transfer switch. When the power goes out it switches to a pure sine inverter connected to a deep cycle marine battery. I have surge protector on it but I can't run another battery backup in-between.</p>\n<p>Overall, I have ran a few FSCK to fix the sd card and the original sd card was a no-name brand that did not last. Either way when I compare to hosting it on AWS the PI has paid for itself. I really want to move some more sites over but I think I need to get some solar+battery installed before I tempt it.</p>\n<p>My main \"server\" or in other words my old intel nuc that acts as a server appears to have a failing NIC. I was thinking I would upgrade that and then put proxmox on it. I already use several docker containers on it. If I do that then I feel like I do not know what I should use the PI for? It's a PI4 and I have PI5 sitting unused. I had to downgrade to a 8 port POE switch after my 24 port died. I got it replaced but I don't want to install it until I am fully moved over to solar+battery.</p>\n<p> </p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-26T09:17:23-04:00",
+            "date_modified": "2024-06-26T09:17:23-04:00"
+        },
+        {
             "id": "https://ramblingsinthesky.com/how-to-make-corn-tortillas-from-scratch.html",
             "url": "https://ramblingsinthesky.com/how-to-make-corn-tortillas-from-scratch.html",
             "title": "How to Make Corn Tortillas From Scratch",
@@ -136,20 +150,6 @@
             ],
             "date_published": "2023-06-25T11:24:17-04:00",
             "date_modified": "2023-06-25T11:33:56-04:00"
-        },
-        {
-            "id": "https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html",
-            "url": "https://ramblingsinthesky.com/razer-nabu-looks-like-the-most-interesting-band-at-ces.html",
-            "title": "Razer Nabu Looks Like the Most Interesting Band at CES",
-            "summary": "Originally published January 8, 2014. I've been tracking the fitness band announcements at CES this year. I currently have a&hellip;",
-            "content_html": "<p>Originally published January 8, 2014.</p>\n<p>I've been tracking the fitness band announcements at CES this year. I currently have a fitbit flex which is a hand-me-down. I bought one for my wife this past September and she just gave it to me after their company bought one for all their employees.</p>\n<p>I like it but I don't like that we will be on our 3rd fitbit flex in just 3 full months. The one my wife got is also defective.</p>\n<p><a href=\"http://www.razerzone.com/nabu\">http://www.razerzone.com/nabu</a></p>\n<p>5/2/2022</p>\n<p>I've gone through three Wyze fitness bands and 2 Wzye watches since then. I've been on the lookout for another fitness band for months. I am at a loss!</p>",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-02T19:45:33-04:00",
-            "date_modified": "2023-05-02T19:45:33-04:00"
         }
     ]
 }
