@@ -3,12 +3,34 @@
     <title>Ramblingsinthesky.com</title>
     <link href="https://ramblingsinthesky.com/feed.xml" rel="self" />
     <link href="https://ramblingsinthesky.com" />
-    <updated>2024-06-26T09:17:23-04:00</updated>
+    <updated>2024-09-29T10:16:36-04:00</updated>
     <author>
         <name>Ben Uecker</name>
     </author>
     <id>https://ramblingsinthesky.com</id>
 
+    <entry>
+        <title>WooCommerce site with Astra Died</title>
+        <author>
+            <name>Ben Uecker</name>
+        </author>
+        <link href="https://ramblingsinthesky.com/woocommerce-site-with-astra-died.html"/>
+        <id>https://ramblingsinthesky.com/woocommerce-site-with-astra-died.html</id>
+
+        <updated>2024-09-29T10:16:36-04:00</updated>
+            <summary>
+                <![CDATA[
+                    While I've never been a fan of WordPress, it does offer an affordable way to host an e-commerce site. Unfortunately,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>While I've never been a fan of <a href="https://wordpress.org/">WordPress</a>, it does offer an affordable way to host an e-commerce site. Unfortunately, my e-commerce site recently encountered significant issues. It was utilizing <a href="https://woocommerce.com/">WooCommerce</a> for the e-commerce functionality and <a href="https://wpastra.com/">Astra</a> for the theme. Lately, I've been experiencing difficulties with <a href="https://elementor.com/">Elementor</a> bundled with Astra. Just yesterday, the site became completely inaccessible. After some troubleshooting, I managed to get it running briefly before it crashed again. Even the recovery mode isn't functioning properly at this point.</p>
+<p>This is a sign that I need to switch so something else. I plan to see if I can get <a href="https://medusajs.com" target="_blank" rel="noopener noreferrer">medusajs</a> to work. I tried for a short while yesterday but failed miserably. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SD Cards Do Not Like Crappy Power</title>
         <author>
@@ -279,29 +301,6 @@
         <content type="html">
             <![CDATA[
                 <p>Just a gripe. I would like to see Austin FC care more about tournaments. First game of Leagues Cup and they lose easily. For the Concacaf tournament they lost to a bunch of part time footballers in Haiti. That's awful.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cold Brew Season is Here!</title>
-        <author>
-            <name>Ben Uecker</name>
-        </author>
-        <link href="https://ramblingsinthesky.com/watchi.html"/>
-        <id>https://ramblingsinthesky.com/watchi.html</id>
-
-        <updated>2023-06-25T11:24:17-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I am sure there are plenty of people who say all year is cold brew season. Living in the tropics&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am sure there are plenty of people who say all year is cold brew season. Living in the tropics I could agree with that but I definitely make more when it is hot out. Especially with El Nino being back. Our lows have been around 80 for a month now. That should not happen until August/September. </p>
-<p>What I do for my cold brew is use a cotton bag and make a mason jar worth of cold brew. I leave it to sit in the kitchen for around 20 hours. Three days worth goes to work with me on Monday and the rest is either drank by the wife or saved for the weekend.</p>
-<p>I vary my recipe based on what I have. When I would make 10 gallons for special events I did a ratio of sweet, nutty and chocolatey.  PNG, Ethiopian, Brazil, Colombian and Guatamela are the usual countries. Currently, I have been using Mexican Chiapas, Ethiopian Yirgacheffe and/or Colombian. The Chiapas I have right now is last season's crop. Got a great price on it. I can't taste the difference when using it in cold brew.</p>
-<p>Enjoy a cold brew in this hot summer!</p>
             ]]>
         </content>
     </entry>

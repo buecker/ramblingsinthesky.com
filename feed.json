@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ramblingsinthesky.com/woocommerce-site-with-astra-died.html",
+            "url": "https://ramblingsinthesky.com/woocommerce-site-with-astra-died.html",
+            "title": "WooCommerce site with Astra Died",
+            "summary": "While I've never been a fan of WordPress, it does offer an affordable way to host an e-commerce site. Unfortunately,&hellip;",
+            "content_html": "<p>While I've never been a fan of <a href=\"https://wordpress.org/\">WordPress</a>, it does offer an affordable way to host an e-commerce site. Unfortunately, my e-commerce site recently encountered significant issues. It was utilizing <a href=\"https://woocommerce.com/\">WooCommerce</a> for the e-commerce functionality and <a href=\"https://wpastra.com/\">Astra</a> for the theme. Lately, I've been experiencing difficulties with <a href=\"https://elementor.com/\">Elementor</a> bundled with Astra. Just yesterday, the site became completely inaccessible. After some troubleshooting, I managed to get it running briefly before it crashed again. Even the recovery mode isn't functioning properly at this point.</p>\n<p>This is a sign that I need to switch so something else. I plan to see if I can get <a href=\"https://medusajs.com\" target=\"_blank\" rel=\"noopener noreferrer\">medusajs</a> to work. I tried for a short while yesterday but failed miserably. </p>\n<p> </p>",
+            "author": {
+                "name": "Ben Uecker"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-29T10:16:36-04:00",
+            "date_modified": "2024-09-29T10:16:36-04:00"
+        },
+        {
             "id": "https://ramblingsinthesky.com/sd-cards-do-not-like-crappy-power.html",
             "url": "https://ramblingsinthesky.com/sd-cards-do-not-like-crappy-power.html",
             "title": "SD Cards Do Not Like Crappy Power",
@@ -136,20 +150,6 @@
             ],
             "date_published": "2023-07-23T17:52:59-04:00",
             "date_modified": "2023-07-23T17:52:59-04:00"
-        },
-        {
-            "id": "https://ramblingsinthesky.com/watchi.html",
-            "url": "https://ramblingsinthesky.com/watchi.html",
-            "title": "Cold Brew Season is Here!",
-            "summary": "I am sure there are plenty of people who say all year is cold brew season. Living in the tropics&hellip;",
-            "content_html": "<p>I am sure there are plenty of people who say all year is cold brew season. Living in the tropics I could agree with that but I definitely make more when it is hot out. Especially with El Nino being back. Our lows have been around 80 for a month now. That should not happen until August/September. </p>\n<p>What I do for my cold brew is use a cotton bag and make a mason jar worth of cold brew. I leave it to sit in the kitchen for around 20 hours. Three days worth goes to work with me on Monday and the rest is either drank by the wife or saved for the weekend.</p>\n<p>I vary my recipe based on what I have. When I would make 10 gallons for special events I did a ratio of sweet, nutty and chocolatey.  PNG, Ethiopian, Brazil, Colombian and Guatamela are the usual countries. Currently, I have been using Mexican Chiapas, Ethiopian Yirgacheffe and/or Colombian. The Chiapas I have right now is last season's crop. Got a great price on it. I can't taste the difference when using it in cold brew.</p>\n<p>Enjoy a cold brew in this hot summer!</p>",
-            "author": {
-                "name": "Ben Uecker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-06-25T11:24:17-04:00",
-            "date_modified": "2023-06-25T11:33:56-04:00"
         }
     ]
 }
